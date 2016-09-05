@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+.thumbnail{
+	height: 500px;
+}
+
+.thumbnail-img{
+	min-height: 200px;
+	min-width: 200px;
+}
+
+body{
+	padding-top:50px;
+}
